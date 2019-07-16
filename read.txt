@@ -1,0 +1,119 @@
+React Road-map From Scratch To Advanced
+Hey folks!
+
+This guide is for people who are starting with React. I have carefully curated the best videos and articles in each section to make it easier for learning.
+
+Note: I’m not associated with any of the websites mentioned below. It’s purely my view.
+
+Prerequisites
+Basic knowledge of HTML, CSS, and JavaScript.
+Basic understanding of ES6 features. Here’s my article explaining some of the ES6 features.
+To get started you should at least know the following features:
+1. Let
+2. Const
+3. Arrow functions
+4. Imports and Exports
+5. Classes
+Basic understanding of how to use npm.
+Getting started
+You can use online code editors to practice, or you can use Create React App.
+
+I have setup a development environment in JSFiddle and in Codepen.
+
+To grasp all the fundamentals of React, you can start with the following tutorials:
+
+React official documentation by React
+
+Beginners guide to React by Kent C. Dodds
+
+Fundamentals of React by Samer Buna
+
+By now, you should have a basic idea of the fundamentals of React. It’s enough to start developing simple web apps in React.
+
+Now, take a look at the React official tutorial:
+
+React Official tutorial by React
+
+It’s a well-written article covering the fundamentals of React. And it also explains the specific topics very clearly.
+
+Last but not least, learn how to connect to APIs with React apps:
+
+Fetching API with React.js by Ethan Jarrell
+
+Start building some projects
+Simple todo-app
+Simple calculator app
+Build a shopping cart
+Display GitHub’s user stats using GitHub API
+React Router
+React Router helps you create routes to your single page applications. It’s very powerful and easy to use with your React application.
+
+To get started:
+
+React Router tutorial by Paul Sherman
+
+React Router and intro to SPA by Learn Code Academy
+
+Routing React apps by Scotch.io
+
+These articles are more than enough for you to get started with React routing.
+
+Projects
+A simple CURD application
+Hacker News clone
+If you are really interested in learning much about Router, check out the following guide:
+
+React Router complete guide by React Training
+
+Webpack
+Webpack is a famous JavaScript module bundler. Webpack helps you to maintain dependencies as static files for your project so developers don’t have to do it.
+
+Webpack also comes with loaders. Loaders help run specific tasks around your project.
+
+To learn much more about Webpack, follow the following tutorials.
+
+When and why to use Webpack by Andrew Ray
+
+Webpack tutorial by Learn Code Academy
+
+To setup your local React environment using Webpack, you can refer to the following GitHub repo:
+
+React SPA template by Hanif Roshan
+
+I think the above tutorials are enough to get started with Webpack. However, to get in-depth knowledge you can refer to the following guides:
+
+Webpack introduction by SurviveJS
+
+Webpack official docs
+
+Server rendering
+Server rendering is one of the coolest features in React. It can be used with any of the back-end technologies.
+
+Server Side Rendering (SSR) in React helps you to create components in the server and render that as HTML in your browser. And when all the JavaScript modules are downloaded in the browser, React takes the stage. Simple!
+
+First of all, take a look at the React-DOM API:
+
+React-DOM API by React
+
+And follow the below tutorials to get in-depth knowledge:
+
+React server rendering by Tyler McGinnis
+
+React router server rendering by Roilan Salinas
+
+React Server side rendering guide by Dennis Brotzky
+
+Redux
+Redux is a JavaScript library developed for maintaining application states. When you are building a complex application, it will add overhead to manage states across components. Redux helps you store all your states in a single source. And of course, React plays well with Redux :)
+
+To get started:
+
+Redux tutorial by Learn Code Academy
+
+Redux tutorial for beginners by Valentino Gagliardi
+
+React Redux by CSS Tricks
+
+These tutorials are more than enough to getting started with Redux. However, I cannot resist mentioning the below tutorial too. It’s worth it!
+
+Getting started with Redux by Dan Abramov
